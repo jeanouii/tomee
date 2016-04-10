@@ -123,7 +123,7 @@
       <dependency>
         <groupId>junit</groupId>
         <artifactId>junit</artifactId>
-        <version>4.11</version>
+        <version>4.12</version>
         <scope>test</scope>
       </dependency>
       <dependency>
@@ -165,8 +165,8 @@
   <properties>
     <xbean.version>3.17</xbean.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <version.tomee>1.7.3-SNAPSHOT</version.tomee>
-    <version.openejb>4.7.3-SNAPSHOT</version.openejb>
+    <version.tomee>1.7.5-SNAPSHOT</version.tomee>
+    <version.openejb>4.7.5-SNAPSHOT</version.openejb>
   </properties>
 
   <!--
